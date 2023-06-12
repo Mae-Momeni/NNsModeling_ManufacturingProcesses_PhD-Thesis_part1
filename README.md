@@ -10,3 +10,5 @@ Target features were quality of products and welding force. The goal was to incr
 We needed to introduce a range of independent features to have the process optimized for the potential customers so that if they select the parameters in that range based on their own business metrics and resources, the cost would be low and the quality high enough.<br>
 <br>
 For NN, software was written with C++ in our research group, in which favorable functions for our application were implemented. I’ve studied and done hyperparameter tuning of learning rate, momentum, number of epochs, and architecture of the network to optimize the model.
+<br>
+During my PostDoc, I developed Machine Learning model on all the use cases from my PhD theses. Different machine learining models were studied to take the one with the best performance. Also Nueral network models by Keras were optimized. The results are presented in another repo in my github.
